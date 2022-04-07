@@ -30,7 +30,7 @@ Projekt został zakończony i nie ma planów dalszego jego rozwoju.
 
 
 ## Źródła
-Ten projekt został stworzony na podstawie tutorialu na youTube z kanału Jak nauczyć się programowania. Link do filmu poniżej.
+Ten projekt został stworzony na podstawie tutorialu na youTube z kanału *Jak nauczyć się programowania.* Link do filmu poniżej.
 
 https://www.youtube.com/watch?v=EFaPsPwPJAY
 
