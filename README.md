@@ -2,7 +2,7 @@
 > Jest to gra w popularnego wisielca napisana w języku Python. Zasady wisielca są banalnie proste i zapewne znane większości, odgadujemy wylosowane słowo podając po kolei literty, mając określoną ilość szans. Był to projekt stworzony na zaliczenie przedmiotu oraz pomógł w nauce podstaw języka Python.
 
 
-## Table of Contents
+## Spis treści
 * [Informacje ogólne](#informacje-ogólne)
 * [Użyte technologie](#użyte-technologie)
 * [Uruchomienie](#uruchomienie)
