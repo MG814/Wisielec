@@ -16,7 +16,7 @@
 
 
 ## Użyte technologie
-- Python - version 3.10.4
+- Python - wersja 3.10.4
 
 
 ## Uruchomienie
