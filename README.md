@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-* [Informacje ogólne](#informacje ogólne)
-* [Użyte technologie](#użyte technologie)
+* [Informacje ogólne](#informacje-ogólne)
+* [Użyte technologie](#użyte-technologie)
 * [Uruchomienie](#uruchomienie)
-* [Status projektu](#status projektu)
+* [Status projektu](#status-projektu)
 * [Źródła](#źródła)
 
 
