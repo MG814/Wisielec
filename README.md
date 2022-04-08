@@ -20,7 +20,7 @@
 
 
 ## Uruchomienie
-Do uruchomienia tego projektu wystarczy JDK obsługujące pliki z rozszerzeniem py i json. Biblioteki potrzebne do poprawnego działania aplikacji powinny pobrać się automatycznie. Ja używałem środowiska PyCham do którego link umieszczam poniżej.
+Do uruchomienia tego projektu wystarczy JDK obsługujące pliki z rozszerzeniem *py* i *json*. Biblioteki potrzebne do poprawnego działania aplikacji powinny pobrać się automatycznie. Ja używałem środowiska PyCham do którego link umieszczam poniżej.
 
 https://www.jetbrains.com/pycharm/
 
